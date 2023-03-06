@@ -1,0 +1,1600 @@
+[{
+  "_id": {
+    "$oid": "6373fd4962a8c531b4accdbf"
+  },
+  "business_status": "OPERATIONAL",
+  "formatted_address": "Corre. Baja de San Pablo, 19, 28004 Madrid",
+  "geometry": {
+    "location": {
+      "lat": 40.4223302,
+      "lng": -3.7042991
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.42364802989272,
+        "lng": -3.702905770107278
+      },
+      "southwest": {
+        "lat": 40.42094837010728,
+        "lng": -3.705605429892722
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Clarita",
+  "opening_hours": {
+    "open_now": true
+  },
+  "photos": [
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116628273617354011925\">Daniel Sánchez Martínez de Cestafe</a>"
+      ],
+      "photo_reference": "AW30NDxf9yYEewp7T1M1kXjFZZr7AtrMc6GIR0_nKVONfMzFLyUE_oAjvp8gCHx6dM0rx_GfWuOXcrxH80a1lM36ERpmrsw2NV5gTkSTpZpbT5ZhfITSoU1iK00RADCxLs5_e3MgedDgX-OHFtEzyDYEWZ9vHHpgVWaCJp0tK4egosN8MNbu",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJ-wZ7OH0oQg0Rlre-0Xf9YCg",
+  "plus_code": {
+    "compound_code": "C7CW+W7 Madrid",
+    "global_code": "8CGRC7CW+W7"
+  },
+  "price_level": 2,
+  "rating": 4.1,
+  "reference": "ChIJ-wZ7OH0oQg0Rlre-0Xf9YCg",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1136
+},{
+  "_id": {
+    "$oid": "6373fd4762a8c531b4acb5f2"
+  },
+  "business_status": "OPERATIONAL",
+  "formatted_address": "C. de Zabaleta, 1, 28002 Madrid",
+  "geometry": {
+    "location": {
+      "lat": 40.4409109,
+      "lng": -3.675379
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.44227067989272,
+        "lng": -3.674034870107278
+      },
+      "southwest": {
+        "lat": 40.43957102010728,
+        "lng": -3.676734529892722
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Vicio",
+  "opening_hours": {
+    "open_now": true
+  },
+  "photos": [
+    {
+      "height": 1067,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109462717891602221517\">A Google User</a>"
+      ],
+      "photo_reference": "AW30NDzmqkm3AchGPRZbPPF8VO2u5q1V2cnV2oJxfNJ9EWLuJOPkHUGehkqdszO38m_1bU5oYz-94sjuaowsjpZrNNLFFC5HMyQv_T9FjFMSQLp9FH_-Q8Sz7Uzhwr5JyMzNfle14OX_wV-TdJcPwIzDi2Ul7z-NZ0BclsVX_LcC81mW-ZGw",
+      "width": 1920
+    }
+  ],
+  "place_id": "ChIJ-eaWDmApQg0RaJRftiGTdIQ",
+  "plus_code": {
+    "compound_code": "C8RF+9R Madrid",
+    "global_code": "8CGRC8RF+9R"
+  },
+  "rating": 3.9,
+  "reference": "ChIJ-eaWDmApQg0RaJRftiGTdIQ",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 54
+},{
+  "_id": {
+    "$oid": "6373bf6d5e13662b6d2211e1"
+  },
+  "business_status": "OPERATIONAL",
+  "formatted_address": "C. de Augusto Figueroa, 12, 28004 Madrid",
+  "geometry": {
+    "location": {
+      "lat": 40.4227323,
+      "lng": -3.699505
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.42408777989272,
+        "lng": -3.698074820107278
+      },
+      "southwest": {
+        "lat": 40.42138812010727,
+        "lng": -3.700774479892722
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Papizza",
+  "opening_hours": {
+    "open_now": true
+  },
+  "photos": [
+    {
+      "height": 6167,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118446329281173571434\">A Google User</a>"
+      ],
+      "photo_reference": "AW30NDzzcD9cE29y3BnE4AY3vO8T77bYOcc1-JNUz2qzOUUmcPkSEw87rLsKyojLFkH0EJ0A9xFa7BO0iuJjQQgY1w3Aa0rtBVCV1dt2bMaAFrZ9grl0EbbX_ovqKQYrkYeLq_-4MLsoE5jiVpBPpdRS3Fd-IPKXsbaJSAWDhLOGRh33f-fC",
+      "width": 8194
+    }
+  ],
+  "place_id": "ChIJp2aBI4YoQg0RePA9_4iHq6E",
+  "plus_code": {
+    "compound_code": "C8F2+35 Madrid",
+    "global_code": "8CGRC8F2+35"
+  },
+  "price_level": 1,
+  "rating": 3.7,
+  "reference": "ChIJp2aBI4YoQg0RePA9_4iHq6E",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 203
+},{
+  "_id": {
+    "$oid": "6373fd4b62a8c531b4acf1c3"
+  },
+  "business_status": "OPERATIONAL",
+  "formatted_address": "Calle de Juan Bravo, 73, 28006 Madrid",
+  "geometry": {
+    "location": {
+      "lat": 40.4324902,
+      "lng": -3.6731919
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.43378577989272,
+        "lng": -3.671819720107278
+      },
+      "southwest": {
+        "lat": 40.43108612010728,
+        "lng": -3.674519379892722
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+  "name": "Casa Salus",
+  "opening_hours": {
+    "open_now": true
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102471945559652450058\">Alicia gavilanes chocano</a>"
+      ],
+      "photo_reference": "AW30NDzzM8C0z2AHjMIkEKUG2inX69rpyNBV7e8012o7vPbXq6JzL0SVY-0wVJ2ILKyThfqN3WeAgzPzxzkfSarsPkL4PJ1plshJXrD-mxbDLI9prya5Ndt2gKo5ga2LRhKpQGn-hQZ0WnynrBQg88verT2SmhOUcjCUF2KqNroHBFTswYX2",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJ7QfOJLgoQg0R4Rbq-KUvDHk",
+  "plus_code": {
+    "compound_code": "C8JG+XP Madrid",
+    "global_code": "8CGRC8JG+XP"
+  },
+  "price_level": 1,
+  "rating": 4.3,
+  "reference": "ChIJ7QfOJLgoQg0R4Rbq-KUvDHk",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 223
+},{
+  "_id": {
+    "$oid": "6373fd4b62a8c531b4acf136"
+  },
+  "business_status": "OPERATIONAL",
+  "formatted_address": "P.º de la Castellana, 44, 28006 Madrid",
+  "geometry": {
+    "location": {
+      "lat": 40.4338355,
+      "lng": -3.6877048
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.43527817989272,
+        "lng": -3.6858723
+      },
+      "southwest": {
+        "lat": 40.43257852010728,
+        "lng": -3.688821899999998
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Marieta",
+  "opening_hours": {
+    "open_now": true
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106441704087166103447\">Jose Luis Mochon</a>"
+      ],
+      "photo_reference": "AW30NDxChZOmQoMt5AvcDleDkXlhMX1T6TRmWysGJF8bYK-PmBgjFH2AltuGp3ZMAwz00Tp1QFyXNPvjDr1AThFuk10RHqcA4N0VD3fPn5dVSi7fKGWswfQAcNoV0f3oABDqQGvFS6D4YyAwGkhRFrUMQM1kc-Fd5SORPHsiXlHoSK4wn73j",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJW5JgrOwoQg0RlHphL6xiGC4",
+  "plus_code": {
+    "compound_code": "C8M6+GW Madrid",
+    "global_code": "8CGRC8M6+GW"
+  },
+  "price_level": 2,
+  "rating": 3.9,
+  "reference": "ChIJW5JgrOwoQg0RlHphL6xiGC4",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 3853
+},{
+  "_id": {
+    "$oid": "6373fd4962a8c531b4accd82"
+  },
+  "business_status": "OPERATIONAL",
+  "formatted_address": "C. del Marqués de Valdeiglesias, 1, 28004 Madrid",
+  "geometry": {
+    "location": {
+      "lat": 40.419364,
+      "lng": -3.6972038
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.42057547989272,
+        "lng": -3.695887020107278
+      },
+      "southwest": {
+        "lat": 40.41787582010728,
+        "lng": -3.698586679892722
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Restaurante Ático",
+  "opening_hours": {
+    "open_now": true
+  },
+  "photos": [
+    {
+      "height": 1575,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116581805631386273095\">A Google User</a>"
+      ],
+      "photo_reference": "AW30NDxqMerRu7iXbS6LpLcwUT_5XJcnNTdzuFjWqBONcCqiCIb6q160QsRf-iDcN8ftI-H-aTIJ7ZDgNw0ZjwmYPs7JUbXKnW_cN57r1ASGRLxuJgVk4aTm7bdovDH9KMdP5XQeQ0EbKEGYQinNFY1ar-rR1DJK9BoyGECzpsS0qWJwOvR8",
+      "width": 2362
+    }
+  ],
+  "place_id": "ChIJz271F4QoQg0RB0PVzUicAqw",
+  "plus_code": {
+    "compound_code": "C893+P4 Madrid",
+    "global_code": "8CGRC893+P4"
+  },
+  "price_level": 3,
+  "rating": 4.5,
+  "reference": "ChIJz271F4QoQg0RB0PVzUicAqw",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 940
+},{
+  "_id": {
+    "$oid": "6373fd4862a8c531b4acbdcc"
+  },
+  "business_status": "OPERATIONAL",
+  "formatted_address": "C. de la Cava Baja, 21, 28005 Madrid",
+  "geometry": {
+    "location": {
+      "lat": 40.4124454,
+      "lng": -3.7090438
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.41380227989271,
+        "lng": -3.707711670107277
+      },
+      "southwest": {
+        "lat": 40.41110262010727,
+        "lng": -3.710411329892721
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Los Secretos de Lola Restaurante",
+  "opening_hours": {
+    "open_now": true
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111057520700419444630\">A Google User</a>"
+      ],
+      "photo_reference": "AW30NDwlUowdIDm7Kwp53WUmr2qqaBSn_c1zB8uR6vdXkYhfyxAZCnMSj-7Ee9AVqGSeWM-d83Y2dJ8kkldtwEykuOJnbGLgJ0GYMF9E8yEquFzve0okj2a468B2AxxTqejdmBx7JziA7IClPMUIgo8_RFDV-uLn2YVLOS8Jx_LBKBh6UeEA",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJiVnTI7MnQg0R76iD4ww_5Mw",
+  "plus_code": {
+    "compound_code": "C76R+X9 Madrid",
+    "global_code": "8CGRC76R+X9"
+  },
+  "rating": 4.2,
+  "reference": "ChIJiVnTI7MnQg0R76iD4ww_5Mw",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 754
+},{
+  "_id": {
+    "$oid": "6373fd4762a8c531b4acb7e3"
+  },
+  "business_status": "OPERATIONAL",
+  "formatted_address": "C. de los Caños del Peral, 2, 28013 Madrid",
+  "geometry": {
+    "location": {
+      "lat": 40.4186623,
+      "lng": -3.7088172
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.42004937989272,
+        "lng": -3.707435120107278
+      },
+      "southwest": {
+        "lat": 40.41734972010727,
+        "lng": -3.710134779892722
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Ouh...Babbo!",
+  "opening_hours": {
+    "open_now": true
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109343067735133738769\">Alberto Soria</a>"
+      ],
+      "photo_reference": "AW30NDxVyUkyXILtXU1PMxTo7WxbhgvBNLj_It3y3QHC9eh_RjJKpMbydizy6i9vSHgI_VTycR5F9UW4Qg0eefth6WvTKvRkQfLHIyRTYZWKHrT2VdWEhbdNmjnlzi1G-08gh47mihlr2ZSmDMueLsIMEXJ5R182-B4zT6wFdDdeqVkIABuH",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJsegs6XsoQg0RHuYq_CC6JtY",
+  "plus_code": {
+    "compound_code": "C79R+FF Madrid",
+    "global_code": "8CGRC79R+FF"
+  },
+  "price_level": 2,
+  "rating": 4.6,
+  "reference": "ChIJsegs6XsoQg0RHuYq_CC6JtY",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1508
+},{
+  "_id": {
+    "$oid": "6373c0005e13662b6d221236"
+  },
+  "business_status": "OPERATIONAL",
+  "formatted_address": "Calle Ntra. Sra. de las Mercedes, 5, 28038 Madrid",
+  "geometry": {
+    "location": {
+      "lat": 40.396408,
+      "lng": -3.6648706
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.39776957989272,
+        "lng": -3.663469370107278
+      },
+      "southwest": {
+        "lat": 40.39506992010728,
+        "lng": -3.666169029892722
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "RESTAURANTE LOS MARISCOS",
+  "opening_hours": {
+    "open_now": true
+  },
+  "photos": [
+    {
+      "height": 960,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104896652725851683824\">Luis Calvo</a>"
+      ],
+      "photo_reference": "AW30NDz6ixhOeFwt5ny6YxWbDWIwjIrVbDSQ0HCL2GEJTBM_3wX9e78E2VgYKKh-diAVZd0EbhWwv5cafXAczutd9uqqVYQ68Oc0PrOr74mJRC9aBEpKTaD6YfDGJbbhwyzoHLL_eztotcOslvv4b8tLub9kXWf0N9R6kFZ3rifYf0IBHhw",
+      "width": 1280
+    }
+  ],
+  "place_id": "ChIJC51JVQomQg0R--hfb30bMTM",
+  "plus_code": {
+    "compound_code": "98WP+H3 Madrid",
+    "global_code": "8CGR98WP+H3"
+  },
+  "price_level": 1,
+  "rating": 4.4,
+  "reference": "ChIJC51JVQomQg0R--hfb30bMTM",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 2070
+},{
+  "_id": {
+    "$oid": "6373fd4b62a8c531b4ace890"
+  },
+  "business_status": "OPERATIONAL",
+  "formatted_address": "C/ San Bernardo, 66, 28015 Madrid",
+  "geometry": {
+    "location": {
+      "lat": 40.42638890000001,
+      "lng": -3.7066667
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.42779782989272,
+        "lng": -3.705396070107278
+      },
+      "southwest": {
+        "lat": 40.42509817010728,
+        "lng": -3.708095729892722
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+  "name": "Tempo II",
+  "opening_hours": {
+    "open_now": true
+  },
+  "photos": [
+    {
+      "height": 3264,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118254046520674489194\">Giovanni</a>"
+      ],
+      "photo_reference": "AW30NDwLkNPpqC8Xi55YUfQCwlQz-LN286kp7XuuDxrY09By2HTBKyBnfsG7nBfexM4KwqsKPx8RXXAz-H-cgnvyjPS6Wt2PNvCTOoXHVyLO89OtHA6QrjzuNkLAnuZTRguwRjYbDr1pRphCAPIcYL1k1vdvhPHsJMUdougHtAh05fmgj6MD",
+      "width": 1836
+    }
+  ],
+  "place_id": "ChIJg5N6vmMoQg0RRYc4WlyOv6k",
+  "plus_code": {
+    "compound_code": "C7GV+H8 Madrid",
+    "global_code": "8CGRC7GV+H8"
+  },
+  "price_level": 1,
+  "rating": 3.9,
+  "reference": "ChIJg5N6vmMoQg0RRYc4WlyOv6k",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 426
+},{
+  "_id": {
+    "$oid": "6373fd4b62a8c531b4acee96"
+  },
+  "business_status": "OPERATIONAL",
+  "formatted_address": "C. del Casino, 22, 28005 Madrid",
+  "geometry": {
+    "location": {
+      "lat": 40.406367,
+      "lng": -3.706670299999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.40767752989272,
+        "lng": -3.705301570107278
+      },
+      "southwest": {
+        "lat": 40.40497787010727,
+        "lng": -3.708001229892722
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Restaurante LUSI",
+  "opening_hours": {
+    "open_now": true
+  },
+  "photos": [
+    {
+      "height": 3464,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115443329994827808146\">AZS AGRO</a>"
+      ],
+      "photo_reference": "AW30NDzeIeHbByynLDJiUR1-m03OHwYEwfofy1d51GCOygOabzzHDkRO9rxt7ESydK4LyLatZBQ2XLDYAfTUZkMIyLbBy-e2jJ-C1rwVkaw2pzvtaKlBKpWIe3onwkEvQlH5GMxVka9p3UXr4cyl9btUaQGuiqFe357KUG_A_HkRGBf4yGhn",
+      "width": 4618
+    }
+  ],
+  "place_id": "ChIJ2YLwv9MnQg0RW-KfYjqWpnI",
+  "plus_code": {
+    "compound_code": "C74V+H8 Madrid",
+    "global_code": "8CGRC74V+H8"
+  },
+  "price_level": 1,
+  "rating": 4.1,
+  "reference": "ChIJ2YLwv9MnQg0RW-KfYjqWpnI",
+  "types": [
+    "restaurant",
+    "bar",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "user_ratings_total": 381
+},{
+  "_id": {
+    "$oid": "6373c1cd5e13662b6d221281"
+  },
+  "business_status": "OPERATIONAL",
+  "formatted_address": "C. de Ventura de la Vega, 4, 28014 Madrid",
+  "geometry": {
+    "location": {
+      "lat": 40.4160178,
+      "lng": -3.6989251
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.41734447989272,
+        "lng": -3.697581120107278
+      },
+      "southwest": {
+        "lat": 40.41464482010728,
+        "lng": -3.700280779892722
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Restaurante Vegetariano Artemisa Sol - Huertas",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 2620,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118131900363597595339\">Mayka Pereda</a>"
+      ],
+      "photo_reference": "AW30NDz2IzxftBHqK5ZhKm61kw64UnLQZ-6oZJz7p7mZFLnbZOxTTQHxPfy7G1ITJejRrOZA4PW8mTDwsZRsGMlE3CI-k7JyHR-IHpCT51zuuym-DsaZkONnrmL2nB55zw-DQJjR4DcUaOuvY6kA57BDlelUv1tgQv_bbqJiaaQxyapNgHAD",
+      "width": 4656
+    }
+  ],
+  "place_id": "ChIJq4-kc4EoQg0R7eDDJ8AH-R0",
+  "plus_code": {
+    "compound_code": "C882+CC Madrid",
+    "global_code": "8CGRC882+CC"
+  },
+  "price_level": 2,
+  "rating": 4.4,
+  "reference": "ChIJq4-kc4EoQg0R7eDDJ8AH-R0",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1684
+},{
+  "_id": {
+    "$oid": "6373fd4b62a8c531b4acee67"
+  },
+  "business_status": "OPERATIONAL",
+  "formatted_address": "C. de Pelayo, 28, 28004 Madrid",
+  "geometry": {
+    "location": {
+      "lat": 40.4228749,
+      "lng": -3.698333699999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.42425227989272,
+        "lng": -3.696997570107279
+      },
+      "southwest": {
+        "lat": 40.42155262010728,
+        "lng": -3.699697229892723
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Borax",
+  "opening_hours": {
+    "open_now": true
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114994077728153952469\">javier alejandro molina perez</a>"
+      ],
+      "photo_reference": "AW30NDxl5-VsjArmqX9B5_2mWaeMgq_1YWiq6nfIpOsGw-dKTtaq0sGvPvmZyHG39dHcqNHSUeaMdpy81CY79WEPW-jjGtCoaw8sijGeHInprsKg64xlhctSHXv8JROZNLjuQrqxPH7CRk4dlxunh0j3xiVMM4oDRu45PExT7YmXnW6-Ae80",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJ2Y87AoYoQg0R2a5cXVxVzJ8",
+  "plus_code": {
+    "compound_code": "C8F2+4M Madrid",
+    "global_code": "8CGRC8F2+4M"
+  },
+  "price_level": 1,
+  "rating": 4.7,
+  "reference": "ChIJ2Y87AoYoQg0R2a5cXVxVzJ8",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 831
+},{
+  "_id": {
+    "$oid": "6373fd4b62a8c531b4aceb28"
+  },
+  "business_status": "OPERATIONAL",
+  "formatted_address": "C. de Antonia Mercé, 8, 28009 Madrid",
+  "geometry": {
+    "location": {
+      "lat": 40.4243894,
+      "lng": -3.6729005
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.42578652989272,
+        "lng": -3.671714720107278
+      },
+      "southwest": {
+        "lat": 40.42308687010728,
+        "lng": -3.674414379892721
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+  "name": "Casa Ibericus & Cia",
+  "opening_hours": {
+    "open_now": true
+  },
+  "place_id": "ChIJA9GJrrooQg0RqRfRXqNGabg",
+  "plus_code": {
+    "compound_code": "C8FG+QR Madrid",
+    "global_code": "8CGRC8FG+QR"
+  },
+  "rating": 2,
+  "reference": "ChIJA9GJrrooQg0RqRfRXqNGabg",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 2
+},{
+  "_id": {
+    "$oid": "6373fd4b62a8c531b4acf13c"
+  },
+  "business_status": "OPERATIONAL",
+  "formatted_address": "Calle de Claudio Coello, 114, 28006 Madrid",
+  "geometry": {
+    "location": {
+      "lat": 40.4360069,
+      "lng": -3.6852002
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.43731337989271,
+        "lng": -3.683927170107278
+      },
+      "southwest": {
+        "lat": 40.43461372010727,
+        "lng": -3.686626829892722
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Restaurante Bibey",
+  "opening_hours": {
+    "open_now": true
+  },
+  "photos": [
+    {
+      "height": 3464,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101654896227697906583\">Manolo Fernandez</a>"
+      ],
+      "photo_reference": "AW30NDyEC9prSXJYH2n-q0bsGtFkNNCywGv5AYt44-5XPiFBkMtExiBYHIsEP8mCCslHQeQIFGg-BJm1Q1wFASTSxqHcenwd-3VXVj_cTinEgHIViD6-hq4I-WHnGoCp6pIn-QWKzfYVQ1tNWlRPKHJrI7drx4RPqMmFiEwwOeFEDGK-QFn4",
+      "width": 4618
+    }
+  ],
+  "place_id": "ChIJ59DhAusoQg0RDyD7UvwalzM",
+  "plus_code": {
+    "compound_code": "C8P7+CW Madrid",
+    "global_code": "8CGRC8P7+CW"
+  },
+  "price_level": 1,
+  "rating": 4.2,
+  "reference": "ChIJ59DhAusoQg0RDyD7UvwalzM",
+  "types": [
+    "restaurant",
+    "cafe",
+    "bar",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "user_ratings_total": 452
+},{
+  "_id": {
+    "$oid": "6373fd4b62a8c531b4acf21d"
+  },
+  "business_status": "OPERATIONAL",
+  "formatted_address": "C. de Padilla, 54, 28006 Madrid",
+  "geometry": {
+    "location": {
+      "lat": 40.4311875,
+      "lng": -3.6776344
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.43258642989272,
+        "lng": -3.676271120107278
+      },
+      "southwest": {
+        "lat": 40.42988677010728,
+        "lng": -3.678970779892722
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Restaurante Padilla 54",
+  "opening_hours": {
+    "open_now": true
+  },
+  "photos": [
+    {
+      "height": 2458,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105813834693826181064\">A Google User</a>"
+      ],
+      "photo_reference": "AW30NDxRZjAFhXhvmxcww_PIKuc28q2n59_9iELwkiEB-KqDtHnMWOAkBgXPFO6lxSWqm4AlLu-cde2eNogX0-YBG9b4MrEwYwL1nbCcP6JsY9JuRX9zcnNFcmCC40MUqnpOI39lBGvs4Sjnm3UGA9LL-bEB6fKbehoYdhrvofDyYUEcMs0b",
+      "width": 6508
+    }
+  ],
+  "place_id": "ChIJjU76XUspQg0RAoYj1lrX6MI",
+  "plus_code": {
+    "compound_code": "C8JC+FW Madrid",
+    "global_code": "8CGRC8JC+FW"
+  },
+  "rating": 4.9,
+  "reference": "ChIJjU76XUspQg0RAoYj1lrX6MI",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "user_ratings_total": 217
+},{
+  "_id": {
+    "$oid": "6373b0a55e13662b6d22107c"
+  },
+  "business_status": "OPERATIONAL",
+  "formatted_address": "C. de Ponzano, 46, 28003 Madrid, Spain",
+  "geometry": {
+    "location": {
+      "lat": 40.4402845,
+      "lng": -3.6988606
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.44164237989272,
+        "lng": -3.697671720107278
+      },
+      "southwest": {
+        "lat": 40.43894272010727,
+        "lng": -3.700371379892721
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Frankie Burgers",
+  "opening_hours": {
+    "open_now": true
+  },
+  "photos": [
+    {
+      "height": 1024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115737630337633926910\">A Google User</a>"
+      ],
+      "photo_reference": "AW30NDwVsDLT2m3seUhUNf7hsSDdtVgApcY4hK33-gyWozjO41BJw9Lv0qmW56xz2_cEJ0Ab03K5XEO5f5K0rU9ZUtrFWy-Eya9n9VzSuwODrq4cm21e9wpB2TS4DMX01rFx7assngIz2S_2bcS4B1oisHEpZRvlYP5gCQzm7mvGr32RewxH",
+      "width": 768
+    }
+  ],
+  "place_id": "ChIJ4y6SI6YpQg0RrUOC75Yp9Yw",
+  "plus_code": {
+    "compound_code": "C8R2+4F Madrid",
+    "global_code": "8CGRC8R2+4F"
+  },
+  "rating": 4.6,
+  "reference": "ChIJ4y6SI6YpQg0RrUOC75Yp9Yw",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1406
+},{
+  "_id": {
+    "$oid": "6373fd4b62a8c531b4acf135"
+  },
+  "business_status": "OPERATIONAL",
+  "formatted_address": "Calle del Monte Esquinza, 34, 28010 Madrid",
+  "geometry": {
+    "location": {
+      "lat": 40.4300738,
+      "lng": -3.6917471
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.43142712989272,
+        "lng": -3.690466220107278
+      },
+      "southwest": {
+        "lat": 40.42872747010728,
+        "lng": -3.693165879892721
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Restaurante La Parra Madrid",
+  "opening_hours": {
+    "open_now": true
+  },
+  "photos": [
+    {
+      "height": 2592,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107828035859211425001\">A Google User</a>"
+      ],
+      "photo_reference": "AW30NDwAhU2VbmMb2j98XRIx-NMTAUbBHAy0-7plKdsLUnLIYsJLOapN1QSYD65EHqMxyIQ9k8LIsNTfD883mbGojAERCAbu127X6ksD0l0hLYjNhThnlUJfQnkTR2LD9bwP55eP7RppYRqEfJZffIcty5f7PT0RhqpvwRp3ljJD92EqCXw8",
+      "width": 3888
+    }
+  ],
+  "place_id": "ChIJwTMJbJIoQg0RJGHKIRKyqiw",
+  "plus_code": {
+    "compound_code": "C8J5+28 Madrid",
+    "global_code": "8CGRC8J5+28"
+  },
+  "price_level": 3,
+  "rating": 4.6,
+  "reference": "ChIJwTMJbJIoQg0RJGHKIRKyqiw",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 294
+},{
+  "_id": {
+    "$oid": "6373fd4862a8c531b4acbaa8"
+  },
+  "business_status": "OPERATIONAL",
+  "formatted_address": "C. de Antonio Arias, 4, 28009 Madrid",
+  "geometry": {
+    "location": {
+      "lat": 40.4176045,
+      "lng": -3.671618199999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.41896502989272,
+        "lng": -3.670200620107277
+      },
+      "southwest": {
+        "lat": 40.41626537010728,
+        "lng": -3.672900279892722
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+  "icon_background_color": "#7B9EB0",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+  "name": "Pizza Napoli",
+  "opening_hours": {
+    "open_now": true
+  },
+  "photos": [
+    {
+      "height": 608,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103995981111996065989\">Pizza Napoli</a>"
+      ],
+      "photo_reference": "AW30NDyCKMYolzI4pNRGkm5gGpZ2VOp9rhuNArjv6VQsuMOuKg64uX7gIta3hIBv3s5ZXvIZkEnzxEldXB9wt0M4pYwg8z9bSk-2yYrmBBup_rLW1m-U-4Lvs249pTBd1T7hMSGAuqn4zOkkXjmtXCo66m5QK20SRTvCUVZlAJqZgpLzI155",
+      "width": 1080
+    }
+  ],
+  "place_id": "ChIJX7VDlqgoQg0RzLlUgmc3v2w",
+  "plus_code": {
+    "compound_code": "C89H+29 Madrid",
+    "global_code": "8CGRC89H+29"
+  },
+  "rating": 4.4,
+  "reference": "ChIJX7VDlqgoQg0RzLlUgmc3v2w",
+  "types": [
+    "meal_takeaway",
+    "meal_delivery",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 450
+},{
+  "_id": {
+    "$oid": "6373fd4862a8c531b4acbd6a"
+  },
+  "business_status": "OPERATIONAL",
+  "formatted_address": "C. del Pez, 36, 28004 Madrid",
+  "geometry": {
+    "location": {
+      "lat": 40.4242313,
+      "lng": -3.706436
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.42556802989272,
+        "lng": -3.705111120107278
+      },
+      "southwest": {
+        "lat": 40.42286837010728,
+        "lng": -3.707810779892722
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Empanadas Malvón",
+  "opening_hours": {
+    "open_now": true
+  },
+  "photos": [
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117382494903084883315\">A Google User</a>"
+      ],
+      "photo_reference": "AW30NDx44uaXaW4ZbNtFLvLRRz4S69UMujk6APNFBgJU_J9sJBXrsR5ar1HDohysPEgR_4rg4-dFzRLroEsNZ23hJYC-nP0Kw9Us5_bsDJf0-RyuqHCcXblJMi767nj7ygGummOkQetSPk0FU5-Vf2DIKUcPUtM2K1FEy4IDwLROrJyIpM1r",
+      "width": 6000
+    }
+  ],
+  "place_id": "ChIJ2ZEpgyIpQg0RdhS_4EWI1I4",
+  "plus_code": {
+    "compound_code": "C7FV+MC Madrid",
+    "global_code": "8CGRC7FV+MC"
+  },
+  "rating": 4.7,
+  "reference": "ChIJ2ZEpgyIpQg0RdhS_4EWI1I4",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 128
+},{
+  "_id": {
+    "$oid": "6373fd4762a8c531b4acb87e"
+  },
+  "business_status": "OPERATIONAL",
+  "formatted_address": "C. de Velázquez, 9, 28001 Madrid",
+  "geometry": {
+    "location": {
+      "lat": 40.4219223,
+      "lng": -3.684606
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.42326787989272,
+        "lng": -3.683158220107279
+      },
+      "southwest": {
+        "lat": 40.42056822010728,
+        "lng": -3.685857879892723
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Salutteria Velázquez",
+  "opening_hours": {
+    "open_now": true
+  },
+  "photos": [
+    {
+      "height": 1500,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100629548744932609770\">A Google User</a>"
+      ],
+      "photo_reference": "AW30NDy5IzJ4k75SdNfJ0zpxwxf4Vc6fU-nRZ20nI1GyVLuS4w-f4eHtxCkzF2ghB9LVRj-NIMrGwpiGtubJqYtf5KCLGjim14hBl93aEq5Wva8y0N4RhxPlBwcl_CyhgLwKPBQiPbTcZY9LfyaRNIdbnp5OZADnASTTSkHT5YCdV90wTfLK",
+      "width": 1200
+    }
+  ],
+  "place_id": "ChIJSQNWE20pQg0R1gOey1UCigY",
+  "plus_code": {
+    "compound_code": "C8C8+Q5 Madrid",
+    "global_code": "8CGRC8C8+Q5"
+  },
+  "price_level": 1,
+  "rating": 4.5,
+  "reference": "ChIJSQNWE20pQg0R1gOey1UCigY",
+  "types": [
+    "meal_delivery",
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 783
+},{
+  "_id": {
+    "$oid": "6373bb6e5e13662b6d22110f"
+  },
+  "business_status": "OPERATIONAL",
+  "formatted_address": "C. de Santo Tomé, 5, 28004 Madrid",
+  "geometry": {
+    "location": {
+      "lat": 40.4237519,
+      "lng": -3.695129699999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.42506642989272,
+        "lng": -3.693722470107278
+      },
+      "southwest": {
+        "lat": 40.42236677010727,
+        "lng": -3.696422129892722
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Sibuya Urban Sushi Bar",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 2112,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109291288134826545003\">Jonathan Fuentes</a>"
+      ],
+      "photo_reference": "AW30NDzyACAPhmBKx_k5A7HbNfTvHJu1hCl9pdx86L3NnhRuh3AOcAcdIomoreMKwgqhDHDP05qxH_Q9lHVd38RtQv-0Ku08REDuSHyrJgxmjzPtA5hwBex3-17tYM86_c-QkljaoKJO2_Gznb8TR74V9x6hZ-ZniNrRuRT8AkpHTFUipZjf",
+      "width": 4608
+    }
+  ],
+  "place_id": "ChIJrb7KvMopQg0R4iB89di3HXM",
+  "plus_code": {
+    "compound_code": "C8F3+FX Madrid",
+    "global_code": "8CGRC8F3+FX"
+  },
+  "price_level": 2,
+  "rating": 4.4,
+  "reference": "ChIJrb7KvMopQg0R4iB89di3HXM",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1555
+},{
+  "_id": {
+    "$oid": "6373c0be5e13662b6d22124b"
+  },
+  "business_status": "OPERATIONAL",
+  "formatted_address": "C. de los Milaneses, 6, 28013 Madrid",
+  "geometry": {
+    "location": {
+      "lat": 40.4161179,
+      "lng": -3.7094584
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.41749207989272,
+        "lng": -3.708147670107278
+      },
+      "southwest": {
+        "lat": 40.41479242010728,
+        "lng": -3.710847329892722
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+  "name": "La Esquinita bar",
+  "opening_hours": {
+    "open_now": true
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115498490544269817013\">A Google User</a>"
+      ],
+      "photo_reference": "AW30NDwBQ2ybrRiZZOzIaOddE2Q-XHTw0ZRObGcBaUsP_F7QmzQeit9hYDyJWKFMOYU2DKjGeJ85JZuVlvJaEIEHJOmrrOIo-k4h40Dg4ZadSLJJ0ZnT3RqKSsa9EFU7fg02YLJH8EAbomWun8DsTkvA4du8dw7ZXzjfE86eT8rLGDfZLrIW",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJA6pMEXkoQg0RG3_HGxJIMRU",
+  "plus_code": {
+    "compound_code": "C78R+C6 Madrid",
+    "global_code": "8CGRC78R+C6"
+  },
+  "price_level": 1,
+  "rating": 4.1,
+  "reference": "ChIJA6pMEXkoQg0RG3_HGxJIMRU",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 612
+},{
+  "_id": {
+    "$oid": "6373bdb45e13662b6d22118b"
+  },
+  "business_status": "OPERATIONAL",
+  "formatted_address": "C. de la Abada, 2, 28013 Madrid",
+  "geometry": {
+    "location": {
+      "lat": 40.4189996,
+      "lng": -3.7037739
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.42028112989272,
+        "lng": -3.702377420107278
+      },
+      "southwest": {
+        "lat": 40.41758147010728,
+        "lng": -3.705077079892722
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Takos Al Pastor",
+  "opening_hours": {
+    "open_now": true
+  },
+  "place_id": "ChIJT25z7H0oQg0RivDmk1vmVlE",
+  "plus_code": {
+    "compound_code": "C79W+HF Madrid",
+    "global_code": "8CGRC79W+HF"
+  },
+  "price_level": 1,
+  "rating": 4.6,
+  "reference": "ChIJT25z7H0oQg0RivDmk1vmVlE",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 10058
+},{
+  "_id": {
+    "$oid": "6373fd4b62a8c531b4aceb80"
+  },
+  "business_status": "OPERATIONAL",
+  "formatted_address": "C. de Abtao, 32, 28007 Madrid",
+  "geometry": {
+    "location": {
+      "lat": 40.4052857,
+      "lng": -3.6751583
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.40665572989272,
+        "lng": -3.673849070107278
+      },
+      "southwest": {
+        "lat": 40.40395607010728,
+        "lng": -3.676548729892722
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+  "name": "Bar La Ardosa",
+  "opening_hours": {
+    "open_now": true
+  },
+  "photos": [
+    {
+      "height": 3120,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107779766764353123247\">Bar La Ardosa</a>"
+      ],
+      "photo_reference": "AW30NDzXD-Y3g3R6byfo5LO7gI9STV8-cmLblE_cvVF1_DCMQQv-3z3QUPC1cco64FDvU-zuOsf-m-hKInIhQdqRbR1BnGncbWhLqzoXHYtP9b1eNXHEQrhf0-cOeCdKL2Qu3Gc7STToyFn4t6-Qe_w37KQSBeNrSAICTslESRnV3Ag7ax7_",
+      "width": 4160
+    }
+  ],
+  "place_id": "ChIJnQYcWRomQg0RVKjyLKsgyY0",
+  "plus_code": {
+    "compound_code": "C84F+4W Madrid",
+    "global_code": "8CGRC84F+4W"
+  },
+  "price_level": 1,
+  "rating": 4.4,
+  "reference": "ChIJnQYcWRomQg0RVKjyLKsgyY0",
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 212
+},{
+  "_id": {
+    "$oid": "6373c1cd5e13662b6d221276"
+  },
+  "business_status": "OPERATIONAL",
+  "formatted_address": "C. de los Relatores, 20, 28012 Madrid",
+  "geometry": {
+    "location": {
+      "lat": 40.4127924,
+      "lng": -3.7033864
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.41413937989272,
+        "lng": -3.702024670107278
+      },
+      "southwest": {
+        "lat": 40.41143972010727,
+        "lng": -3.704724329892722
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Restaurante Yatiri",
+  "opening_hours": {
+    "open_now": true
+  },
+  "photos": [
+    {
+      "height": 5472,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105965089101264338759\">Pablo Tronchoni Marco</a>"
+      ],
+      "photo_reference": "AW30NDyRMkCfQ6GzNUg9kg12WfoCiUgAGeQaVOSp9UTwe6w2MBmWGKw1Qij8LMccjrPdCagi29Fqe6EkR5vIve1TSeCqpFDIvORzsm8Xdxul568_kScXKA2I3ztj3OOGhZ4cDa2Rk4bz82df5wMD4ZyvScYFCggwnPZSDgNPqzT9xfmyMT5G",
+      "width": 7296
+    }
+  ],
+  "place_id": "ChIJYz81VtUnQg0RYbOwYXb-K2Q",
+  "plus_code": {
+    "compound_code": "C77W+4J Madrid",
+    "global_code": "8CGRC77W+4J"
+  },
+  "price_level": 1,
+  "rating": 4.2,
+  "reference": "ChIJYz81VtUnQg0RYbOwYXb-K2Q",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 218
+},{
+  "_id": {
+    "$oid": "6373fd4962a8c531b4acd312"
+  },
+  "business_status": "OPERATIONAL",
+  "formatted_address": "Calle de Sandoval, 16, 28010 Madrid",
+  "geometry": {
+    "location": {
+      "lat": 40.4302324,
+      "lng": -3.7047732
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.43158342989273,
+        "lng": -3.703319070107278
+      },
+      "southwest": {
+        "lat": 40.42888377010728,
+        "lng": -3.706018729892722
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Gracias Padre - Jungle Club",
+  "opening_hours": {
+    "open_now": true
+  },
+  "place_id": "ChIJJV9E8LApQg0R4i3ObB37YkU",
+  "plus_code": {
+    "compound_code": "C7JW+33 Madrid",
+    "global_code": "8CGRC7JW+33"
+  },
+  "price_level": 2,
+  "rating": 4.1,
+  "reference": "ChIJJV9E8LApQg0R4i3ObB37YkU",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1631
+},{
+  "_id": {
+    "$oid": "6373fd4a62a8c531b4acdb42"
+  },
+  "business_status": "OPERATIONAL",
+  "formatted_address": "C. del Dr. Esquerdo, 99, 28007 Madrid",
+  "geometry": {
+    "location": {
+      "lat": 40.4159453,
+      "lng": -3.669095199999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.41737417989272,
+        "lng": -3.667868020107278
+      },
+      "southwest": {
+        "lat": 40.41467452010727,
+        "lng": -3.670567679892721
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Telepizza Doctor Esquerdo II - Comida a Domicilio",
+  "opening_hours": {
+    "open_now": true
+  },
+  "photos": [
+    {
+      "height": 1600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114262723153253655257\">Telepizza</a>"
+      ],
+      "photo_reference": "AW30NDzYrWn2sj0T4VlrTm9Km6tl-hAxBXwDQVGDbkxbiJ9hGo0bNXXpka4ZPz25ty52I-_EUtXkSKpshp0rF8Z_JOvSDEDme4bbTbuGmHWS004K9eT7pORPuWVVCx4Gk_2avp7sFRzinEB4VbMtB9whFgTtjEAAPfHFSJbeNU0p9Psa9gSo",
+      "width": 2400
+    }
+  ],
+  "place_id": "ChIJQZECsKkoQg0RLI_Alc6dDNA",
+  "plus_code": {
+    "compound_code": "C88J+99 Madrid",
+    "global_code": "8CGRC88J+99"
+  },
+  "price_level": 1,
+  "rating": 3.7,
+  "reference": "ChIJQZECsKkoQg0RLI_Alc6dDNA",
+  "types": [
+    "meal_delivery",
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 434
+},{
+  "_id": {
+    "$oid": "6373fd4b62a8c531b4acee76"
+  },
+  "business_status": "OPERATIONAL",
+  "formatted_address": "C. de Hermosilla, 2, 28001 Madrid",
+  "geometry": {
+    "location": {
+      "lat": 40.426502,
+      "lng": -3.6890463
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.42790397989273,
+        "lng": -3.687832470107279
+      },
+      "southwest": {
+        "lat": 40.42520432010728,
+        "lng": -3.690532129892723
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Hortensio Restaurante",
+  "opening_hours": {
+    "open_now": true
+  },
+  "photos": [
+    {
+      "height": 682,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103502946022883744406\">Guillermo Bernabe</a>"
+      ],
+      "photo_reference": "AW30NDzzSZNgPe73D8vpB6rVFOwljP734vMTo1AvtucyoliYXmQ7-zTt1-iSWZp46_BkWWSQYEWcg2mb8kJbgYwejwLBiVPiJiDWnxRXcjI83SMX4sLpLEwncswUp5nSJdVC_ZciGqcr7XY6Y3Os_OqTiB-8RMuXn81zZsroBZlzSQz_OrxD",
+      "width": 1024
+    }
+  ],
+  "place_id": "ChIJ59sXZ5IoQg0RQOsVWGBNiig",
+  "plus_code": {
+    "compound_code": "C8G6+J9 Madrid",
+    "global_code": "8CGRC8G6+J9"
+  },
+  "rating": 4.4,
+  "reference": "ChIJ59sXZ5IoQg0RQOsVWGBNiig",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "user_ratings_total": 175
+},{
+  "_id": {
+    "$oid": "6373bf6d5e13662b6d2211c9"
+  },
+  "business_status": "OPERATIONAL",
+  "formatted_address": "C. de las Huertas, 49, 28012 Madrid",
+  "geometry": {
+    "location": {
+      "lat": 40.4133045,
+      "lng": -3.6968576
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.41463497989272,
+        "lng": -3.695549970107278
+      },
+      "southwest": {
+        "lat": 40.41193532010728,
+        "lng": -3.698249629892722
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Del Poble Pizzeria",
+  "opening_hours": {
+    "open_now": false
+  },
+  "photos": [
+    {
+      "height": 4480,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107730854093179759464\">A Google User</a>"
+      ],
+      "photo_reference": "AW30NDwfgw2K_mWzTfszdKfE8OEE7LJGquoSI2fBTuPTz_mPZaK6mJEWGqsGWVMD7Sllzqjb_5YbITA0dewae-5sUID53d6JrWCyvDtha1C74v2j9PeCRFmz7mJ6_BBdVCSmPBycS9ZgYSqAyV6bO2tYxVhrvZ7zdpYIA3iKTpp2OCLA8Zmt",
+      "width": 6720
+    }
+  ],
+  "place_id": "ChIJOe7OAfgpQg0RAnlcWnJs6gE",
+  "plus_code": {
+    "compound_code": "C873+87 Madrid",
+    "global_code": "8CGRC873+87"
+  },
+  "price_level": 1,
+  "rating": 4.6,
+  "reference": "ChIJOe7OAfgpQg0RAnlcWnJs6gE",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 111
+}]
