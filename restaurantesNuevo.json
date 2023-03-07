@@ -1,0 +1,173 @@
+[{
+  "_id": "6373fd4962a8c531b4accdbf",
+  "formatted_address": "Corre. Baja de San Pablo, 19, 28004 Madrid",
+  "name": "Clarita",
+  "place_id": "ChIJ-wZ7OH0oQg0Rlre-0Xf9YCg",
+  "price_level": 2,
+  "rating": 4.1,
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1136,
+  "lat": 40.4223302,
+  "lng": -3.7042991,
+  "img": "https://media-cdn.tripadvisor.com/media/photo-s/04/9e/47/66/clarita.jpg"
+},{
+  "_id": "6373fd4762a8c531b4acb5f2",
+  "formatted_address": "C. de Zabaleta, 1, 28002 Madrid",
+  "name": "Vicio",
+  "place_id": "ChIJ-eaWDmApQg0RaJRftiGTdIQ",
+  "price_level": 1,
+  "rating": 3.9,
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 54,
+  "lat": 40.4409109,
+  "lng": -3.675379,
+  "img": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2022/01/10/16418118476403.jpg"
+},{
+  "_id": "6373bf6d5e13662b6d2211e1",
+  "formatted_address": "C. de Augusto Figueroa, 12, 28004 Madrid",
+  "name": "Papizza",
+  "place_id": "ChIJp2aBI4YoQg0RePA9_4iHq6E",
+  "price_level": 1,
+  "rating": 3.7,
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 203,
+  "lat": 40.4227323,
+  "lng": -3.699505,
+  "img": "https://media-cdn.tripadvisor.com/media/photo-s/03/56/83/a6/papizza-siciliana.jpg"
+},{
+  "_id": "6373fd4b62a8c531b4acf1c3",
+  "formatted_address": "Calle de Juan Bravo, 73, 28006 Madrid",
+  "name": "Casa Salus",
+  "place_id": "ChIJ7QfOJLgoQg0R4Rbq-KUvDHk",
+  "price_level": 1,
+  "rating": 4.3,
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 223,
+  "lat": 40.4324902,
+  "lng": -3.6731919,
+  "img": "https://img.restaurantguru.com/rb26-Casa-Salus-design.jpg"
+},{
+  "_id": "6373fd4b62a8c531b4acf136",
+  "formatted_address": "P.º de la Castellana, 44, 28006 Madrid",
+  "name": "Marieta",
+  "place_id": "ChIJW5JgrOwoQg0RlHphL6xiGC4",
+  "price_level": 2,
+  "rating": 3.9,
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 3853,
+  "lat": 40.4338355,
+  "lng": -3.6877048,
+  "img": "https://larrumba.com/wp-content/uploads/2022/01/Marieta_Slider2.jpg"
+},{
+  "_id":  "6373fd4962a8c531b4accd82",
+  "formatted_address": "C. del Marqués de Valdeiglesias, 1, 28004 Madrid",
+  "name": "Restaurante Ático",
+  "place_id": "ChIJz271F4QoQg0RB0PVzUicAqw",
+  "price_level": 3,
+  "rating": 4.5,
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 940,
+  "lat": 40.419364,
+  "lng": -3.6972038,
+  "img": "http://www.terraceando.com/wp-content/uploads/nauticognal.jpg"
+},{
+  "_id": "6373fd4862a8c531b4acbdcc",
+  "formatted_address": "C. de la Cava Baja, 21, 28005 Madrid",
+  "name": "Los Secretos de Lola Restaurante",
+  "place_id": "ChIJiVnTI7MnQg0R76iD4ww_5Mw",   
+  "price_level": 3,
+  "rating": 4.2,
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 754,
+  "lat": 40.4124454,
+  "lng": -3.7090438,
+  "img": "https://cdn-628fa384c1ac183cb034ddee.closte.com/wp-content/uploads/2022/07/LOLA_Home_Img_Galleria-16-600x400.jpg"
+},{
+  "_id": "6373fd4762a8c531b4acb7e3",
+  "formatted_address": "C. de los Caños del Peral, 2, 28013 Madrid",
+  "name": "Ouh...Babbo!",
+  "place_id": "ChIJsegs6XsoQg0RHuYq_CC6JtY",
+  "price_level": 2,
+  "rating": 4.6,
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 1508,
+  "lat": 40.4186623,
+  "lng": -3.7088172,
+  "img":"https://res.cloudinary.com/tf-lab/image/upload/restaurant/0663fdde-ce56-4fd1-a7ac-6054a27335a2/e67c3a1d-d5e6-40c3-9c54-1d16e79fd734.jpg"
+},{
+  "_id":  "6373c0005e13662b6d221236",
+  "formatted_address": "Calle Ntra. Sra. de las Mercedes, 5, 28038 Madrid",
+  "name": "RESTAURANTE LOS MARISCOS",
+  "place_id": "ChIJC51JVQomQg0R--hfb30bMTM",
+  "price_level": 1,
+  "rating": 4.4,
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 2070,
+  "lat": 40.396408,
+  "lng": -3.6648706,
+  "img": "https://media-cdn.tripadvisor.com/media/photo-s/14/71/c3/74/20180826-144442-largejpg.jpg"
+},{
+  "_id": "6373fd4b62a8c531b4ace890",
+  "formatted_address": "C/ San Bernardo, 66, 28015 Madrid",
+  "name": "Tempo II",
+  "place_id": "ChIJg5N6vmMoQg0RRYc4WlyOv6k",
+  "price_level": 1,
+  "rating": 3.9,
+  "types": [
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "user_ratings_total": 426,
+  "lat": 40.42638890000001,
+  "lng": -3.7066667,
+  "img": "https://madriddiferente.com/wp-content/uploads/2019/07/TEMPO-II-Fachada-Local.jpg"
+}]
